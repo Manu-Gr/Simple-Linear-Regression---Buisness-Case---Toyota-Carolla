@@ -1,1 +1,1 @@
-# Simple-Linear-Regression---Buisness-Case---Toyota-Carolla
+# Simple-Linear-Regression---Buisness-Case---Waist Adipose Tissue
